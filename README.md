@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a coder for decades, mainly c#, sometimes c/c++.
+- 👋 Hi, I’m a coder, mainly c#, sometimes c/c++.
 - 👀 I am always a learner for good coding.
-- 🌱 I would build helper codes and hope you guys would find them helpful.
-- 💞️ Anyone could share and comment on my codes, make them more helpful.
+- 🌱 I am building helper codes and hope they are found helpful.
+- 💞️ Everyone could share and comment on my codes, make them more helpful.
